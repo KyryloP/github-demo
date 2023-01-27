@@ -8,3 +8,4 @@ A simple demo repository to show basic Git workflow
 
 
 ## Support
+Some new text
