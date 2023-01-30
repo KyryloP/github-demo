@@ -1,7 +1,7 @@
 Test Git Quick Start demo
 
 
-Here is new section
+Here is new section, than more changes from myfeaturebracnh too
 
 
 New simple changes
