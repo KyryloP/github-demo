@@ -10,5 +10,8 @@ I want to deploy
 ## Support
 Let's support one other
 
+## New section added
+My info 
+
 Here I added also new data
 (c) Copyright Kyrylo 2022
