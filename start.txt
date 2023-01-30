@@ -1,3 +1,4 @@
 Test Git Quick Start demo
 
+New simple changes
 (c) Copyright Kyrylo 2022
