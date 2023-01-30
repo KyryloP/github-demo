@@ -2,8 +2,7 @@ Test Git Quick Start demo
 
 
 Here is new section, than more changes from myfeaturebracnh too
-Line to commit to main before rebase conflicts
+Line for real comflicts for rebasing
 
-New simple changes
 Added huge code block
 (c) Copyright Kyrylo Prykhno 2023
