@@ -9,3 +9,5 @@ I want to deploy
 
 ## Support
 Let's support one other
+
+(c) Copyright Kyrylo 2022
