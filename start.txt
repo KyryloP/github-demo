@@ -7,3 +7,4 @@ Line for real comflicts for rebasing
 Added huge code block
 One more change
 (c) Copyright Kyrylo Prykhno 2023
+New modofication
