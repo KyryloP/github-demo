@@ -2,7 +2,7 @@ Test Git Quick Start demo
 
 
 Here is new section, than more changes from myfeaturebracnh too
-
+Line to commit to main before rebase conflicts
 
 New simple changes
 Added huge code block
