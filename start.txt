@@ -1,6 +1,6 @@
 Test Git Quick Start demo
 
-
+Some modifications
 Here is new section, than more changes from myfeaturebracnh too
 Line for real comflicts for rebasing
 
