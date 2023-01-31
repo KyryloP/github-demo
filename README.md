@@ -15,3 +15,4 @@ My info
 
 Here I added also new data
 (c) Copyright Kyrylo 2022 All Reights reserved
+Line after stash
