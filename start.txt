@@ -4,6 +4,7 @@ Some modifications
 Here is new section, than more changes from myfeaturebracnh too
 Line for real comflicts for rebasing
 
-Added huge code block
+Simple changes
 One more change
 (c) Copyright Kyrylo Prykhno 2023 All rights reserved
+Additional changes
