@@ -14,4 +14,4 @@ Let's support one other
 My info 
 
 Here I added also new data
-(c) Copyright Kyrylo 2022
+(c) Copyright Kyrylo 2022 All Reights reserved
